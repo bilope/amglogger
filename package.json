@@ -1,0 +1,20 @@
+{
+  "name": "amglogger",
+  "version": "0.0.1",
+  "description": "Remote System Log and management Service",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+	"remote",
+	"management"
+  ],
+  "author": "Taewoong La",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
